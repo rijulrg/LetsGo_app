@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Let\'s Go</string>
+    
+    <string name="r1name">Virgin Courtyard</string>
+    <string name="r1add">SCO 1A, Madhya Marg, Sector 7C, Chandigarh, 160007</string>
+    <string name="r2name">Barbeque Nation</string>
+    <string name="r2add">SCO 39 ,Madhya Marg, Block 2, Sector 26, Near Green Market Chowk, Chandigarh, 160019</string>
+    <string name="iposition">position</string>
+    <string name="r3name">Swagath Restaurant And Bar</string>
+    <string name="r3add">SCO, Madhya Marg, Sector 26, Chandigarh, 160019</string>
+    <string name="m1name">DLF Citycentre Mall</string>
+    <string name="m1add">IT Park, Plot Number 22 en dash 23, Phase I, Manimajra, Chandigarh, 161101</string>
+    <string name="m2name">The North Country Mall</string>
+    <string name="m2add">NH-21, Chandigarh Kharar Road, Sector-118, Sahibzada Ajit Singh Nagar, Punjab 160055</string>
+    <string name="m3name">Elante Mall</string>
+    <string name="m3add">SCO 178A, Industrial Area Phase 1, MW Area, Chandigarh, 160002</string>
+    <string name="h1name">Lemon Tree Hotel</string>
+    <string name="h1add">3, MW Area, Industrial Area Phase I, Industrial Area, Chandigarh 160002</string>
+    <string name="h2name">Turquoise Chandigarh</string>
+    <string name="h2add"><![CDATA[29/7, Industrial & Business Park Phase 2, Near Tribune Chowk, Chandigarh, 160002]]></string>
+    <string name="h3name">The LaLiT Chandigarh</string>
+    <string name="h3add">Rajiv Gandhi IT Park, DLF Commercial Complex, Chandigarh, 160101</string>
+    <string name="c1name">Barista Lavazza</string>
+    <string name="c1add">SCO 421 en dash 422, Himalaya Marg, Sector 35 C, Chandigarh, 160035</string>
+    <string name="c2name">Midpoint Cafe</string>
+    <string name="c2add">SCO 41, Sector 21C, Chandigarh, 160022</string>
+    <string name="c3name">RUSTIC DOOR</string>
+    <string name="c3add">SCF 12 SECTOR 10 D, Chandigarh, 160011</string>
+    <string name="s1name">Mount Carmel School</string>
+    <string name="s1add">Sector 47-B, Chandigarh, 160047</string>
+    <string name="s2name">Carmel Convent School</string>
+    <string name="s2add">9B, Sector 9, Chandigarh, 160009</string>
+    <string name="s3name">St. Anne\'s Convent School</string>
+    <string name="s3add">Sector 32-C, Chandigarh 160030</string>
+</resources>
